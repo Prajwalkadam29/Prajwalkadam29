@@ -28,9 +28,9 @@
 </p>
 
 ### 👨‍💻 About Me
-🎓 **B.Tech Computer Science (Junior)** | Exploring the intersection of Web3 and AI.  
-🚀 **Current Focus:** Building scalable backend systems with **Spring Boot** and **Blockchain** architectures.  
-🏆 **Accomplishments:** SIH National Hackathon Participant | Published Researcher (2 Papers) | Technical Blogger.  
+🎓 Computer Science (AI-ML) @ Vishwakarma Institute of Technology, Pune
+🚀 Building scalable backend systems with **Spring Boot** and **Blockchain** architectures.  
+🏆 Published Researcher (2 Papers) | Technical Blogger | Open-source enthusiast
 ✍️ I write about tech on [Medium](https://medium.com/@prajwal.kadam2005).
 ---
 
@@ -41,8 +41,9 @@
 | **Languages** | Java (Core & Advanced) · Python · Solidity · SQL          |
 | **Backend & Web** | Spring Boot · FastAPI · REST APIs · React.js              |
 | **Blockchain/Web3** | Ethereum · Smart Contracts · Decentralized Storage        |
-| **AI / ML** | Deep Learning · Reinforcement Learning · OpenCV |
-| **Databases / Cloud** | PostgreSQL · MongoDB · Neo4j · AWS (EC2, S3)              |
+| **AI / ML** | Deep Learning · Reinforcement Learning · LangChain · Graph RAG · TensorFlowOpenCV · CrewAI  |
+| **Databases / Cloud** | PostgreSQL · MongoDB · Neo4j · NebulaGraph · Weaviate · AWS (EC2, S3)      |
+| **Automation** | n8n · zapier  |
 | **Tools** | Docker · Git · Linux                              |
 
 
@@ -57,37 +58,57 @@
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Prajwalkadam29&theme=dark&background=000000" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Prajwalkadam29&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| **[Prajā-Netra](https://github.com/Prajwalkadam29/Praja-Netra)** | Corruption Complaint Management System using AI-driven verification and Blockchain for immutable logging. | Blockchain · Spring Boot · AI |
-| **[Legacy Migration Engine](https://github.com/Prajwalkadam29/Legacy-Migration-Engine)** | Automated tool to convert legacy C code into modern Python using ANTLR, Neo4j graph mapping, and LLMs. | Python · ANTLR · Neo4j |
-| **[AI Debate Arena](https://github.com/Prajwalkadam29/AI-Debate-Arena)** | A full-stack platform where users can debate against AI agents with NLP-based scoring. | React · FastAPI · PostgreSQL |
-| **[Decentralized Verification](https://github.com/Prajwalkadam29/Certi-Verify)** | AI-powered decentralized system for secure and instant certificate verification. | Solidity · React · IPFS |
+| **[Asset Intelligence Graph RAG](https://github.com/Prajwalkadam29/asset-intelligence-graph-rag)** | Complex asset mapping and context-aware retrieval using Knowledge Graphs. | Neo4j · LangChain · Python |
+| **[Digital Twin Solution](https://github.com/Prajwalkadam29/Digital-Twin-Solution)** | Real-time industrial telemetry and predictive maintenance simulation. | Spring Boot · MQTT · IoT |
+| **[MediProc-AI](https://github.com/Prajwalkadam29/MediProc-AI)** | Intelligent medical document processing and automated insight extraction. | Python · FastAPI · TensorFlow |
+| **[Decentralized Chat App](https://github.com/Prajwalkadam29/Decentralized-Chat-App)** | P2P encrypted messaging platform leveraging blockchain protocols. | Solidity · React · IPFS |
+| **[Repo Doc Generator](https://github.com/Prajwalkadam29/repo-documentation-generator)** | Automated technical documentation and README generator using LLMs. | Python · OpenAI API · FastAPI |
 
 ---
+
+### 🛠 Past Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Olist RFM** | Customer segmentation and analytics for supply chain optimization. | Pandas · Matplotlib · Data Viz |
+
+---
+
+### 📌 Developer Impact Highlights:
+- **Graph Intelligence:** Enhanced data retrieval accuracy for asset management using **Neo4j-based Knowledge Graphs**.
+- **Industrial Automation:** Built a **Digital Twin** framework for real-time monitoring and failure prediction in manufacturing.
+- **Workflow Efficiency:** Reduced documentation time for developers by 70% through an **AI-driven README generator**.
+- **Decentralized Privacy:** Implemented **Blockchain-based chat protocols** to ensure 100% data ownership and P2P security.
 
 ---
 ### 🧭 Roadmap
 
 ```mermaid
 timeline
-    title 2025-2026 Development Goals
-    section Web3 & Blockchain
-        Prajā-Netra Mainnet Beta : In-progress
-        DeFi Protocol Research : Next
-    section AI & Backend
-        RL Simulation in Spring Boot : In-progress
-        Large Scale System Design : Queued
-    section Research
-        Autonomous Drone Navigation Paper : Finalizing
-        Medium Technical Blog Series : Weekly
+    title Technical Journey
+    section AI & Graphs
+        Advanced Graph RAG Implementation : In-progress
+        Agentic Workflows for Industry 4.0 : Next
+    section Web3
+        Prajā-Netra Decentralized Governance : In-progress
+        Smart Contract Security Auditing : Queued
+    section Core Engineering
+        Spring Boot Performance Tuning : Ongoing
+        CI/CD for Cloud-Native Apps : Nexties : Weekly
 ```
+---
 
 <p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00E7FF%26height%3D100%26section%3Dfooter" /> </p>
+
+---
