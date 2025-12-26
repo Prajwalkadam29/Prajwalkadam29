@@ -63,6 +63,8 @@
   </a>
 </p>
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Prajwalkadam29)](https://git.io/streak-stats)
 
 ---
@@ -109,8 +111,5 @@ timeline
         Spring Boot Performance Tuning : Ongoing
         CI/CD for Cloud-Native Apps : Nexties : Weekly
 ```
----
-
-<p align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00E7FF%26height%3D100%26section%3Dfooter" /> </p>
 
 ---
