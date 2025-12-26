@@ -28,10 +28,11 @@
 </p>
 
 ### 👨‍💻 About Me
+
 🎓 Computer Science (AI-ML) @ Vishwakarma Institute of Technology, Pune
-🚀 Building scalable backend systems with **Spring Boot** and **Blockchain** architectures.  
-🏆 Published Researcher (2 Papers) | Technical Blogger | Open-source enthusiast
-✍️ I write about tech on [Medium](https://medium.com/@prajwal.kadam2005).
+🚀 Building scalable backend systems with **AI**, **Spring Boot** and **Blockchain** architectures.  
+🏆 Published Researcher (2 Papers) | Open-source enthusiast
+
 ---
 
 ### 🛠️ Skill Matrix
@@ -57,14 +58,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Prajwalkadam29&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Prajwalkadam29)](https://git.io/streak-stats)
 
 ---
@@ -73,11 +66,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Asset Intelligence Graph RAG](https://github.com/Prajwalkadam29/asset-intelligence-graph-rag)** | Complex asset mapping and context-aware retrieval using Knowledge Graphs. | Neo4j · LangChain · Python |
-| **[Digital Twin Solution](https://github.com/Prajwalkadam29/Digital-Twin-Solution)** | Real-time industrial telemetry and predictive maintenance simulation. | Spring Boot · MQTT · IoT |
-| **[MediProc-AI](https://github.com/Prajwalkadam29/MediProc-AI)** | Intelligent medical document processing and automated insight extraction. | Python · FastAPI · TensorFlow |
-| **[Decentralized Chat App](https://github.com/Prajwalkadam29/Decentralized-Chat-App)** | P2P encrypted messaging platform leveraging blockchain protocols. | Solidity · React · IPFS |
-| **[Repo Doc Generator](https://github.com/Prajwalkadam29/repo-documentation-generator)** | Automated technical documentation and README generator using LLMs. | Python · OpenAI API · FastAPI |
+| **[Asset Intelligence Graph RAG](https://github.com/Prajwalkadam29/asset-intelligence-graph-rag)** | Complex asset mapping and context-aware retrieval using Knowledge Graphs. | Neo4j · LangChain · FastAPI · Python |
+| **[Digital Twin Solution](https://github.com/Prajwalkadam29/Digital-Twin-Solution)** | Real-time industrial telemetry and predictive maintenance simulation. | Unity3D · MQTT · MongoDB Atlas · Python |
+| **[MediProc-AI](https://github.com/Prajwalkadam29/MediProc-AI)** | Intelligent medical document processing and automated insight extraction. | Java · Spring Boot · Spring AI · Whisper · Tess4J |
+| **[Decentralized Chat App](https://github.com/Prajwalkadam29/Decentralized-Chat-App)** | P2P encrypted messaging platform leveraging blockchain protocols. | Solidity · React · NodeJS · IPFS · WebRTC |
+| **[Repo Doc Generator](https://github.com/Prajwalkadam29/repo-documentation-generator)** | Automated technical documentation and README generator using LLMs. | Java · Spring Boot · Spring AI · OpenAI API |
 
 ---
 
@@ -85,7 +78,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **AI Debate Arena** | Real-time debate platform (Human ↔ AI), speech-to-text, NLP scoring, leaderboards. | FastAPI · React · PostgreSQL · LLM |
 | **Olist RFM** | Customer segmentation and analytics for supply chain optimization. | Pandas · Matplotlib · Data Viz |
+| **Code-to-Resume** | Parser to convert YAML structured data into customized, ATS-friendly resumes. | Java · Spring Boot · Openhtmltopdf · YAML · Thymeleaf |
+| **Monte-Carlo Viz** | Visualizing probabilistic outcomes and simulations for complex decision models. | Python · Matplotlib · NumPy |
+| **Predictive Maintenance** | ML-based failure prediction model for hardware lifecycle management. | IoT · Python · Scikit-Learn · Pandas |
 
 ---
 
