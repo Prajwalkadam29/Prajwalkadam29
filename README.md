@@ -63,6 +63,8 @@
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prajwalkadam29)](https://git.io/streak-stats)
+
 ---
 
 ### 🚀 Featured Projects
