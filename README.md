@@ -78,7 +78,7 @@
 
 ```mermaid
 timeline
-    title 2024-2025 Development Goals
+    title 2025-2026 Development Goals
     section Web3 & Blockchain
         Prajā-Netra Mainnet Beta : In-progress
         DeFi Protocol Research : Next
