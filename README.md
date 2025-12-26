@@ -31,7 +31,7 @@
 
 🎓 Computer Science (AI-ML) @ Vishwakarma Institute of Technology, Pune-411037.
 
-🚀 Building scalable backend systems with **AI**, **Spring Boot** and **Blockchain** architectures.
+🚀 Building scalable backend systems with **AI**, **Python(FastAPI)**, **Java(Spring Boot)** and **Blockchain** architectures.
 
 🏆 Published Researcher (2 Papers) | Open-source enthusiast
 
