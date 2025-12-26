@@ -30,9 +30,8 @@
 ### 👨‍💻 About Me
 🎓 **B.Tech Computer Science (Junior)** | Exploring the intersection of Web3 and AI.  
 🚀 **Current Focus:** Building scalable backend systems with **Spring Boot** and **Blockchain** architectures.  
-🏆 **Accomplishments:** SIH National Hackathon Participant | Published Researcher (3 Papers) | Technical Blogger.  
-✍️ I write about tech on [Medium](https://medium.com/@prajwalkadam).
-
+🏆 **Accomplishments:** SIH National Hackathon Participant | Published Researcher (2 Papers) | Technical Blogger.  
+✍️ I write about tech on [Medium](https://medium.com/@prajwal.kadam2005).
 ---
 
 ### 🛠️ Skill Matrix
@@ -42,9 +41,9 @@
 | **Languages** | Java (Core & Advanced) · Python · Solidity · SQL          |
 | **Backend & Web** | Spring Boot · FastAPI · REST APIs · React.js              |
 | **Blockchain/Web3** | Ethereum · Smart Contracts · Decentralized Storage        |
-| **AI / ML** | Reinforcement Learning · Monte Carlo Simulations · OpenCV |
+| **AI / ML** | Deep Learning · Reinforcement Learning · OpenCV |
 | **Databases / Cloud** | PostgreSQL · MongoDB · Neo4j · AWS (EC2, S3)              |
-| **Tools** | Docker · Git · ANTLR · Linux                              |
+| **Tools** | Docker · Git · Linux                              |
 
 
 <p align="left">
