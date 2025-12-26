@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXBycmh6ZzRyc3JqZzRyc3JqZzRyc3JqZzRyc3JqZzRyc3JqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="720">
+  <img src="assets/coder.gif" alt="Coding Animation" width="720">
 </p>
 
 <p align="center">
