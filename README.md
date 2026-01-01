@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prajwalkadam29&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Prajwalkadam29&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
