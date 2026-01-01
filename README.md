@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=60&text=Human%20beings%20are%20strong%20because%20we%20have%20the%20ability%20to%20change%20ourselves.&fontSize=22&fontColor=00E7FF&textAlign=center&verticalAlign=middle" alt="Philosophy Quote" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=1&section=header&text=" alt="" />
 </p>
 
@@ -104,6 +100,14 @@
 - **Industrial Automation:** Built a **Digital Twin** framework for real-time monitoring and failure prediction in manufacturing.
 - **Workflow Efficiency:** Reduced documentation time for developers by 70% through an **AI-driven README generator**.
 - **Decentralized Privacy:** Implemented **Blockchain-based chat protocols** to ensure 100% data ownership and P2P security.
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Human%20beings%20are%20strong%20because%20we%20have%20the%20ability%20to%20change%20ourselves.&theme=tokyonight&customAuthor=%20" alt="Philosophy Quote" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
 
 ---
 ### 🧭 Roadmap
