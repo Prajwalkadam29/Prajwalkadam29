@@ -17,15 +17,15 @@
   <img src="assets/coder.gif" alt="Coding Animation" width="720">
 </p>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Human%20beings%20are%20strong%20because%20we%20have%20the%20ability%20to%20change%20ourselves.&author=Prajwal%20Kadam&theme=tokyonight" alt="Quote" />
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=1&section=header&text=" alt="" />
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prajwalkadam29&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
 
 ### 👨‍💻 About Me
 
