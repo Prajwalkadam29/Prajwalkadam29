@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Human%20beings%20are%20strong%20because%20we%20have%20the%20ability%20to%20change%20ourselves.&author=Prajwal%20Kadam&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Human%20beings%20are%20strong%20because%20we%20have%20the%20ability%20to%20change%20ourselves.&theme=tokyonight" alt="Quote" />
 </div>
 
 <p align="center">
@@ -26,6 +26,10 @@
 </p>
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Prajwalkadam29&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 ### 👨‍💻 About Me
 
