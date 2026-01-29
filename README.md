@@ -37,6 +37,20 @@
 
 ---
 
+### 🔭 What I'm Currently Learning & Doing
+
+♾️ Diving deeper into the **DevOps** ecosystem.
+
+☸️ Mastering **Kubernetes** for container orchestration.
+
+🚀 Learning production-grade **Application Deployment** strategies.
+
+🏗️ Studying **High Level Design (HLD)** and System Architecture.
+
+🤖 Working on an **Agentic AI** project sponsored by [Parallel Minds](https://parallel-minds.com/).
+
+---
+
 ### 🛠️ Skill Matrix
 
 | Area                  | Technologies & Tools                                      |
