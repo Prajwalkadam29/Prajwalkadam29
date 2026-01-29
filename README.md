@@ -133,9 +133,12 @@
 
 ### 📚 Research Publications
 - [Alarm-Bulance: Emergency Accident Alarming System](https://www.researchgate.net/publication/390512653_Alarm-Bulance_Emergency_Accident_Alarming_System)
+
 **Published in:** World Congress on Smart Computing (pp.263-274)
 
+
 - [Retrofitting Approach for Predictive Maintenance](https://www.researchgate.net/publication/397874392_Retrofitting_Approach_for_Predictive_Maintenance)
+
 **Published in:** Proceedings of the International Conference on AI and Robotics (pp.311-329)
 
 ---
