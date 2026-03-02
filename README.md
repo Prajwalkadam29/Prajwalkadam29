@@ -1,28 +1,3 @@
-<div align="center">
-  <pre>
- ██████╗ ██████╗  █████╗      ██╗██╗    ██╗ █████╗ ██╗     
- ██╔══██╗██╔══██╗██╔══██╗     ██║██║    ██║██╔══██╗██║     
- ██████╔╝██████╔╝███████║     ██║██║ █╗ ██║███████║██║     
- ██╔═══╝ ██╔══██╗██╔══██╗██   ██║██║███╗██║██╔══██╗██║     
- ██║     ██║  ██║██║  ██║╚█████╔╝╚███╔███╔╝██║  ██║███████╗
- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
-  </pre>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=900&color=00E7FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Prajwal+👋;Java+Backend+|+Blockchain+|+AI+Research;Building+Decentralized+%26+Intelligent+Systems+⚡" alt="Typing Intro">
-</div>
-
-<p align="center">
-  <img src="assets/coder.gif" alt="Coding Animation" width="720">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E7FF&height=1&section=header&text=" alt="" />
-</p>
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Prajwalkadam29&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
@@ -143,23 +118,6 @@
 
 ---
 
-### 🧭 Roadmap
-
-```mermaid
-timeline
-    title Technical Journey
-    section AI & Graphs
-        Advanced Graph RAG Implementation : In-progress
-        Agentic Workflows for Industry 4.0 : Next
-    section Web3
-        Prajā-Netra Decentralized Governance : In-progress
-        Smart Contract Security Auditing : Queued
-    section Core Engineering
-        Spring Boot Performance Tuning : Ongoing
-        CI/CD for Cloud-Native Apps : Nexties : Weekly
-```
-
----
 
 ### Some Random Dev Quote
 <div align="center">
