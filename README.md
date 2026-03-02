@@ -1,3 +1,57 @@
+```yaml
+apiVersion: v20
+kind: Engineer
+metadata:
+  name: Prajwal Kadam
+  role: Backend & AI Systems Engineer
+  location: Pune, India
+spec:
+  purpose: Build decentralized & intelligent systems at scale
+  currentFocus:
+    - Graph RAG & Knowledge Systems
+    - Agentic AI Workflows
+    - Kubernetes & Cloud-Native Deployment
+    - High-Level System Design
+  activeProjects:
+    - Asset Intelligence Graph RAG
+    - Digital Twin for Industrial Monitoring
+    - MediProc-AI (Medical Document Intelligence)
+    - Prajā-Netra (Decentralized Governance)
+  research:
+    publications: 2
+    domains:
+      - Predictive Maintenance
+      - Emergency Response Systems
+  techStack:
+    backend:
+      - Java (Spring Boot)
+      - Python (FastAPI)
+    ai:
+      - LangChain
+      - TensorFlow
+      - Graph RAG
+      - CrewAI
+    blockchain:
+      - Solidity
+      - Ethereum
+      - IPFS
+    databases:
+      - PostgreSQL
+      - MongoDB
+      - Neo4j
+      - Weaviate
+  philosophy:
+    build: "Systems that think."
+    scale: "Architect before you automate."
+    security: "Decentralize trust."
+  favorites:
+    number: 7
+    emoji: ⚡
+    architecture: 🏗️
+    graph: 🧠
+```
+---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Prajwalkadam29&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
